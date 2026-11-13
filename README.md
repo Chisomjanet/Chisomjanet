@@ -1,9 +1,5 @@
 👋 Hi, I'm Ezekwonna Chisom! 📊 Data Analyst | Turning Data into Meaningful Insights
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" />
-</p>
-
 Welcome to my GitHub profile!
 
 I am a passionate Data Analyst who enjoys transforming raw data into meaningful insights that support informed decision-making. I love exploring datasets, identifying patterns, solving problems, and presenting findings through clear visualisations and interactive dashboards.
@@ -102,13 +98,6 @@ I am open to opportunities, collaborations, networking and continuous learning.
 <a href="https://github.com/Chisomjanet">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="PASTE_YOUR_PORTFOLIO_LINK_HERE">
-<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="PASTE_YOUR_RESUME_LINK_HERE">
-<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" />
-</a>
-</p>
 
 <p align="center">
 <i>✨ "Turning numbers into narratives, and data into decisions."</i>
