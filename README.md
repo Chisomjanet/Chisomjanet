@@ -1,12 +1,12 @@
 👋 Hi, I'm Ezekwonna Chisom! 📊 Data Analyst | Turning Data into Meaningful Insights
 
-Welcome to my GitHub profile!
+**About Me!**
 
 I am a passionate Data Analyst who enjoys transforming raw data into meaningful insights that support informed decision-making. I love exploring datasets, identifying patterns, solving problems, and presenting findings through clear visualisations and interactive dashboards.
 
 With a background in Nutrition and Dietetics and professional training in Data Analysis, I bring analytical thinking, attention to detail, and a problem-solving mindset to every project.
 
-🛠️ Tools & Technologies Data Analysis & Business Intelligence
+🛠️ **Tools & Technologies Data Analysis & Business Intelligence**
 
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -25,12 +25,11 @@ Operating Systems & Other Tools
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 💡 Areas of Expertise 🧹 Data Cleaning and Preparation 🔍 Exploratory Data Analysis 📊 Data Analysis and Interpretation 📈 Data Visualisation 📑 Interactive Dashboard Development 🗄️ SQL Querying and Data Manipulation 💼 Business Intelligence
 
-📂 Featured Projects
+📂 **Featured Projects**
 
 📊 Power BI Data Analysis Project
 
@@ -66,7 +65,7 @@ Database exploration Data retrieval and filtering SQL querying Data manipulation
 
 🎓 Bachelor of Science (B.Sc.) in Nutrition and Dietetics University of Nigeria, Nsukka Graduation: December 2024
 
-🚀 My Career Journey
+🚀** My Career Journey**
 
 My journey into data analysis began with my academic background in Nutrition and Dietetics, where I developed an appreciation for research, interpreting information, analysing findings and making evidence-based decisions.
 
@@ -78,7 +77,7 @@ Today, I am focused on strengthening my analytical abilities, expanding my techn
 
 My goal is to become a skilled Data Analyst who transforms complex data into clear, actionable insights that drive better decisions.
 
-📚 My Learning Roadmap
+📚** My Learning Roadmap**
 
 I believe in continuous learning and expanding my technical capabilities.
 
