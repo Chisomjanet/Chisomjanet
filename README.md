@@ -82,18 +82,23 @@ Today, I am focused on strengthening my analytical abilities, expanding my techn
 
 My goal is to become a skilled Data Analyst who transforms complex data into clear, actionable insights that drive better decisions.
 
+🤝 **Let's Connect!**
+
+I am open to opportunities, collaborations, networking and continuous learning.
+
+📧 Email – (chisomjanet01@gmail.com)
+
+💼 LinkedIn – (https://www.linkedin.com/in/chisom-ezekwonna-91a34621b)
+
+🌐 Portfolio – [https://github.com/Chisomjanet](https://github.com/Chisomjanet)
+
 📚** My Learning Roadmap**
 
 I believe in continuous learning and expanding my technical capabilities.
 
 🐍 Python – Advanced data analysis and automation 📐 Statistics – Deeper analytical and statistical techniques 📊 Tableau – Expanding my data visualisation skills 🗄️ Advanced SQL – Complex queries and database management 🤖 Machine Learning – Predictive analytics and data-driven forecasting
 
-🤝 **Let's Connect!**
 
-I am open to opportunities, collaborations, networking and continuous learning.
-📧 Email – (chisomjanet01@gmail.com)
-💼 LinkedIn – (https://www.linkedin.com/in/chisom-ezekwonna-91a34621b)
-🌐 Portfolio – [https://github.com/Chisomjanet](https://github.com/Chisomjanet)
 
 
 <p align="center">
