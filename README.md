@@ -1,70 +1,76 @@
-# 👋 Hello, I'm Ezekwonna Chisom!
+👋 Hi, I'm Ezekwonna Chisom! 📊 Data Analyst | Turning Data into Meaningful Insights
 
-### Data Analyst | Turning Data into Meaningful Insights 📊
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" />
+</p>
 
 Welcome to my GitHub profile!
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making. I enjoy exploring datasets, identifying patterns, solving problems, and presenting findings through clear visualisations and interactive dashboards.
+I am a passionate Data Analyst who enjoys transforming raw data into meaningful insights that support informed decision-making. I love exploring datasets, identifying patterns, solving problems, and presenting findings through clear visualisations and interactive dashboards.
 
-With a background in **Nutrition and Dietetics** and professional training in **Data Analysis**, I bring analytical thinking, attention to detail, and a problem-solving mindset to every project I undertake.
+With a background in Nutrition and Dietetics and professional training in Data Analysis, I bring analytical thinking, attention to detail, and a problem-solving mindset to every project.
 
-I am continuously developing my technical skills and building practical projects that demonstrate my ability to work with data and communicate insights effectively.
+🛠️ Tools & Technologies Data Analysis & Business Intelligence
 
----
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-## 🛠️ Tools & Technologies
+Database & Customer Management
 
-| Tool | Description |
-|---|---|
-| Microsoft Excel | Data cleaning, analysis and reporting |
-| Power BI | Data visualisation and dashboard development |
-| SQL | Data querying, exploration and manipulation |
-| CRM | Customer relationship management |
-| Linux | Command-line operations and system navigation |
+<p>
+<img src="https://img.shields.io/badge/SQL_Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
----
+Operating Systems & Other Tools
 
-## 💡 Areas of Expertise
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
-- Data Analysis and Interpretation
-- Data Visualisation
-- Dashboard Development
-- SQL Querying
+💡 Areas of Expertise 🧹 Data Cleaning and Preparation 🔍 Exploratory Data Analysis 📊 Data Analysis and Interpretation 📈 Data Visualisation 📑 Interactive Dashboard Development 🗄️ SQL Querying and Data Manipulation 💼 Business Intelligence
 
----
+📂 Featured Projects
 
-## 📂 Featured Projects
+📊 Power BI Data Analysis Project
 
-I have worked on practical data analysis projects that demonstrate my ability to explore datasets, extract useful information, identify trends and communicate findings.
+Data Analysis with Power BI
 
-### 1. 📊 Power BI Data Analysis Project
+A practical project demonstrating my ability to transform raw data into meaningful insights using Power BI.
 
-**Overview:** This project demonstrates my ability to transform data into meaningful insights using Power BI. It involves data preparation, analysis, visualisation and the development of interactive dashboards to communicate key findings and support data-driven decisions.
+Key activities:
 
-🔗 **[View Power BI Project](https://github.com/Chisomjanet/TNMT-data-analysis-with-PowerBI)**
+Data preparation and cleaning Data exploration and analysis Interactive dashboard development Visualisation of key performance indicators Communicating data-driven insights
 
-### 2. 🗄️ SQL – Maji Ndogo Project
+🔗 View Power BI Project:(rs Visualisation of key performance indicators Communicating data-driven insights
 
-**Overview:** A SQL-based data analysis project focused on the Maji Ndogo water services database. The project involved exploring datasets, retrieving relevant information, applying filtering techniques and performing data-related operations to investigate and understand water service data.
+🔗 View Power BI Project: [TNMT Data Analysis with Power BI](https://github.com/Chisomjanet/TNMT-data-analysis-with-PowerBI))
 
-🔗 **[View SQL Project](https://github.com/Chisomjanet/Data-Driven_Journey_in_Maji_Ndogo)**
+🗄️ SQL – Maji Ndogo Project
 
----
+Data-Driven Journey in Maji Ndogo
 
-## 🎓 Education & Certifications
+A SQL-based data analysis project focused on exploring the Maji Ndogo water services database.
 
-**Data Analysis – TECHIE ACADEMY**  
-Graduated: November 2026
+Key activities:
 
-**Bachelor of Science (B.Sc.) in Nutrition and Dietetics**  
-University of Nigeria, Nsukka  
-Graduated: December 2024
+Database exploration Data retrieval and filtering SQL querying Data manipulation Investigating water service information
 
----
+🔗 View SQL Project: (uing Data manipulation Investigating water service information  
 
-## 🚀 My Career Journey
+🔗 View SQL Project: [Data-Driven Journey in Maji Ndogo](https://github.com/Chisomjanet/Data-Driven_Journey_in_Maji_Ndogo))
+
+🎓 Education & Certifications
+
+🎓 Data Analysis – TECHIE ACADEMY Graduation: November 2026
+
+🎓 Bachelor of Science (B.Sc.) in Nutrition and Dietetics University of Nigeria, Nsukka Graduation: December 2024
+
+🚀 My Career Journey
 
 My journey into data analysis began with my academic background in Nutrition and Dietetics, where I developed an appreciation for research, interpreting information, analysing findings and making evidence-based decisions.
 
@@ -74,31 +80,40 @@ I took the next step by pursuing professional training in Data Analysis at TECHI
 
 Today, I am focused on strengthening my analytical abilities, expanding my technical knowledge and building a portfolio of real-world projects.
 
-**My goal is to grow into a skilled Data Analyst who transforms complex data into clear, actionable insights that drive better decisions.**
+My goal is to become a skilled Data Analyst who transforms complex data into clear, actionable insights that drive better decisions.
 
----
+📚 My Learning Roadmap
 
-## 📬 Let's Connect!
+I believe in continuous learning and expanding my technical capabilities.
+
+🐍 Python – Advanced data analysis and automation 📐 Statistics – Deeper analytical and statistical techniques 📊 Tableau – Expanding my data visualisation skills 🗄️ Advanced SQL – Complex queries and database management 🤖 Machine Learning – Predictive analytics and data-driven forecasting
+
+🤝 Let's Connect!
 
 I am open to opportunities, collaborations, networking and continuous learning.
 
-- 📧 **Email:** [Your Email Address](chisomjanet01@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chisom-ezekwonna-91a34621b)
-- 🌐 **Portfolio:** [Explore my Portfolio](https://github.com/Chisomjanet)
+<p>
+<a href="mailto:chisomjanet01@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/chisom-ezekwonna-91a34621b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Chisomjanet">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="PASTE_YOUR_PORTFOLIO_LINK_HERE">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="PASTE_YOUR_RESUME_LINK_HERE">
+<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" />
+</a>
+</p>
 
----
+<p align="center">
+<i>✨ "Turning numbers into narratives, and data into decisions."</i>
+</p>
 
-## 🚀 My Learning Roadmap
-
-I believe in continuous learning and expanding my technical capabilities. My next areas of focus include:
-
-- **Python** – Advanced data analysis and automation.
-- **Statistics** – Deeper analytical and statistical techniques.
-- **Tableau** – Expanding my data visualisation skills.
-- **Advanced SQL** – Complex queries and database management.
-- **Machine Learning** – Exploring predictive analytics and data-driven forecasting.
-
-**My goal is to continuously evolve as a Data Analyst, embrace new technologies and turn increasingly complex data into actionable insights.**
-### ✨ "Turning numbers into narratives, and data into decisions."
-
+<p align="center">
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
