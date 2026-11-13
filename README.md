@@ -1,4 +1,4 @@
-#👋 Hi, I'm Ezekwonna Chisom
+# 👋 Hi, I'm Ezekwonna Chisom 
 📊 Data Analyst | Turning Data into Meaningful Insights**
 
 **About Me!**
@@ -128,7 +128,3 @@ I believe in continuous learning and expanding my technical capabilities.
 <p align="center">  
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.  
 </p>
-
-
-
-
