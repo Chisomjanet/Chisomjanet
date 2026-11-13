@@ -90,7 +90,7 @@ I am open to opportunities, collaborations, networking and continuous learning.
 
 💼 LinkedIn – (https://www.linkedin.com/in/chisom-ezekwonna-91a34621b)
 
-🌐 Portfolio – [https://github.com/Chisomjanet](https://github.com/Chisomjanet)
+🌐 Portfolio – (https://github.com/Chisomjanet)
 
 📚** My Learning Roadmap**
 
