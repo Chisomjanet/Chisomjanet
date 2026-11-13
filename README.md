@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ezekwonna Chisom 
 📊 Data Analyst | Turning Data into Meaningful Insights**
 
-**About Me!**
+**About Me**
 
 I am a passionate Data Analyst who enjoys transforming raw data into meaningful insights that support informed decision-making. I love exploring datasets, identifying patterns, solving problems, and presenting findings through clear visualisations and interactive dashboards.
 
@@ -100,7 +100,7 @@ Today, I am focused on strengthening my analytical abilities, expanding my techn
 My goal is to become a skilled Data Analyst who transforms complex data into clear, actionable insights that drive better decisions.
 
 
-**🤝 Let's Connect!**
+**🤝 Let's Connect**
 
 I am open to opportunities, collaborations, networking and continuous learning.
 
