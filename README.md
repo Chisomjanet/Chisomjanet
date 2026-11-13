@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Ezekwonna Chisom
+#👋 Hi, I'm Ezekwonna Chisom
 📊 Data Analyst | Turning Data into Meaningful Insights**
 
 **About Me!**
