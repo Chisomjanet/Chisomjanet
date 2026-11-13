@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ezekwonna Chisom 
-📊 Data Analyst | Turning Data into Meaningful Insights**
+📊 Data Analyst | Turning Data into Meaningful Insights
 
-**About Me**
+About Me
 
 I am a passionate Data Analyst who enjoys transforming raw data into meaningful insights that support informed decision-making. I love exploring datasets, identifying patterns, solving problems, and presenting findings through clear visualisations and interactive dashboards.
 
