@@ -88,17 +88,13 @@ I believe in continuous learning and expanding my technical capabilities.
 
 🐍 Python – Advanced data analysis and automation 📐 Statistics – Deeper analytical and statistical techniques 📊 Tableau – Expanding my data visualisation skills 🗄️ Advanced SQL – Complex queries and database management 🤖 Machine Learning – Predictive analytics and data-driven forecasting
 
-🤝 Let's Connect!
+🤝 **Let's Connect!**
 
 I am open to opportunities, collaborations, networking and continuous learning.
+📧 Email – (chisomjanet01@gmail.com)
+💼 LinkedIn – (https://www.linkedin.com/in/chisom-ezekwonna-91a34621b)
+🌐 Portfolio – [https://github.com/Chisomjanet](https://github.com/Chisomjanet)
 
-<p>
-<a href="mailto:chisomjanet01@gmail.com">
-</a>
-<a href="https://www.linkedin.com/in/chisom-ezekwonna-91a34621b">
-</a>
-<a href="https://github.com/Chisomjanet">
-</a>
 
 <p align="center">
 <i>✨ "Turning numbers into narratives, and data into decisions."</i>
